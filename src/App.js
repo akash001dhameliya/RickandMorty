@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import RickandMorty from './Rickandmorty';
 import PracticalExample from './PracticalExample';
