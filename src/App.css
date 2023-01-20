@@ -8,3 +8,8 @@
 {
   background-image: linear-gradient(to left,rgba(55, 59, 68, 0.7) 5%,rgba(66, 134, 244, 0.6) 30%);
 }
+
+.load
+{
+  height: 100vh;
+}
